@@ -16,5 +16,12 @@ US Library of Congress, “Sanborn Fire Insurance Maps Online Checklist,” http
 
 - Hartford volume 1, 1922-1950 https://www.loc.gov/item/sanborn01132_009/
 - Hartford volume 2, 1922-1950 https://www.loc.gov/item/sanborn01132_010/ (not yet available as of June 2021).
-- Hartford volume 3, 1922-1950 https://www.loc.gov/item/sanborn01132_011/
+- Hartford volume 3, 1923-1950 https://www.loc.gov/item/sanborn01132_011/
 - Hartford volume 4, 1923-1950 https://www.loc.gov/item/sanborn01132_012/ (not yet available as of June 2021).
+
+## Notes
+- page 318 Charter Oak Terrace, USHA project
+- page 319 Rice Heights, state housing project
+- page 326 Charter Oak Terrace extension, USHA project
+- page 344 Oakwood Acres (former location, pasted over)
+- page 352 and 353 Elmwood Acres (former location, pasted over); note about future East-West Highway location
